@@ -1,1 +1,1 @@
-# SES_Mobile_demo
+# Unity game WebGL build
